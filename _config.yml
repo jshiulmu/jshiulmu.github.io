@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Kis Webpage
+title: Kis Home
 
 # Your name to show in the footer
 author: Jerahmeel Mendoza, Jordan Shiu, Kalif Byrd, Sarron Tadesse, Joanna Estrada
@@ -20,11 +20,9 @@ author: Jerahmeel Mendoza, Jordan Shiu, Kalif Byrd, Sarron Tadesse, Joanna Estra
 ###############################################
 
 navbar-links:
-  About Kis: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://github.com/jmendo15/Kis"
+  About Us: "aboutus"
+  Example Programs: "exampleprograms"
+  Kis Compiler: "https://github.com/jmendo15/Kis"
 
 ################
 # --- Logo --- #
