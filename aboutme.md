@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Kis
+subtitle: The story of Kis
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Kis is a sophisticated, statically-typed programming language designed for modern software development needs. Its rich type system supports both primitive and user-defined types, enhanced by advanced features like generics and type inference, allowing developers to write expressive, yet type-safe code. A distinctive feature of Kis is its support for function and operator overloading, enabling context-specific behaviors of functions and operators based on argument types, thereby enhancing the language's flexibility and expressiveness.
+
+Kis also places a strong emphasis on immutability, offering immutable data types to ensure safer and more predictable code, particularly beneficial in concurrent programming scenarios. Furthermore, Kis features a module system, complete with import/export capabilities, encouraging modularity and code reuse. This comprehensive suite of features positions Kis as a powerful tool for developers looking to leverage the benefits of modern language design in both system-level and high-level application development.

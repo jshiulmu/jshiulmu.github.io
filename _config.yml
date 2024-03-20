@@ -20,11 +20,11 @@ author: Jerahmeel Mendoza, Jordan Shiu, Kalif Byrd, Sarron Tadesse, Joanna Estra
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Kis: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://github.com/jmendo15/Kis"
 
 ################
 # --- Logo --- #
