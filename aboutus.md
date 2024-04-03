@@ -31,3 +31,9 @@ Minor: Mathematics <br  />
 Hometown: Honolulu, Hawaii<br  />
 I could use a new pair of sunglasses.</p>
 
+# Sarron Tadesse
+<img src="../team_pictures/Sarr.png">
+<p> Major: Computer Science <br  />
+Minor: Data Science <br  />
+Hometown: Addis Ababa, Ethiopia <br  />
+flaxseed 🌱 </p>
